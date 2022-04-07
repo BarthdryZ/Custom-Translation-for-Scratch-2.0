@@ -1,0 +1,1820 @@
+msgid "%b and %b"
+msgstr "%b an %b"
+
+msgid "%b or %b"
+msgstr "%b or %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute ov %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list contains %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp ov %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor sensor value"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Data"
+msgstr "Spawnr"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Looks"
+msgstr "Lookz"
+
+msgid "More Blocks"
+msgstr "Moar Blockz"
+
+msgid "Motion"
+msgstr "Moshun"
+
+msgid "Operators"
+msgstr "Mathz"
+
+msgid "Pen"
+msgstr "Pen"
+
+msgid "Sensing"
+msgstr "Sensin"
+
+msgid "Sound"
+msgstr "Sound"
+
+msgid "add %s to %m.list"
+msgstr "add %s 2 %m.list"
+
+msgid "answer"
+msgstr "anzwr"
+
+msgid "ask %s and wait"
+msgstr "ask %s an wait"
+
+msgid "backdrop #"
+msgstr "bakdrop #"
+
+msgid "backdrop name"
+msgstr "bakdrop name"
+
+msgid "broadcast %m.broadcast"
+msgstr "breadcast %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "breadcast %m.broadcast an wait"
+
+msgid "change %m.effect effect by %n"
+msgstr "change %m.effect FX buy %n"
+
+msgid "change %m.var by %n"
+msgstr "change %m.var buy %n"
+
+msgid "change pen color by %n"
+msgstr "change pen color buy %n"
+
+msgid "change pen shade by %n"
+msgstr "change pen shade buy %n"
+
+msgid "change pen size by %n"
+msgstr "change pen tip buy %n"
+
+msgid "change size by %n"
+msgstr "change size buy %n"
+
+msgid "change tempo by %n"
+msgstr "change tempo buy %n"
+
+msgid "change volume by %n"
+msgstr "change volume buy %n"
+
+msgid "change x by %n"
+msgstr "change x buy %n"
+
+msgid "change y by %n"
+msgstr "change y buy %n"
+
+msgid "clear"
+msgstr "clear"
+
+msgid "clear graphic effects"
+msgstr "clear graphic FX's"
+
+msgid "color %c is touching %c?"
+msgstr "color %c iz touchin %c?"
+
+msgid "costume #"
+msgstr "coztume #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "create clone ov %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "current %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "dais since 2000"
+
+msgid "define"
+msgstr "lol"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "delete %d.listDeleteItem ov %m.list"
+
+msgid "delete this clone"
+msgstr "delete dis clone"
+
+msgid "direction"
+msgstr "direcshun"
+
+msgid "distance"
+msgstr "distans"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "distans 2 %m.spriteOrMouse"
+
+msgid "else"
+msgstr "else"
+
+msgid "forever"
+msgstr "forevr"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glide %n secs 2 x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "go bak %n layers"
+
+msgid "go to %m.location"
+msgstr "go 2 %m.locashun"
+
+msgid "go to front"
+msgstr "go 2 frunt"
+
+msgid "go to x:%n y:%n"
+msgstr "go 2 x:%n y:%n"
+
+msgid "hide"
+msgstr "hide"
+
+msgid "hide list %m.list"
+msgstr "hide list %m.list"
+
+msgid "hide variable %m.var"
+msgstr "hide variable %m.var"
+
+msgid "if %b then"
+msgstr "if %b den"
+
+msgid "if on edge, bounce"
+msgstr "if on edge, boun"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "insert %s at %d.listItem ov %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "item %d.listItem ov %m.list"
+
+msgid "join %s %s"
+msgstr "join %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "key %m.key presd?"
+
+msgid "length of %m.list"
+msgstr "length ov %m.list"
+
+msgid "length of %s"
+msgstr "length ov %s"
+
+msgid "letter %n of %s"
+msgstr "lettr %n ov %s"
+
+msgid "loudness"
+msgstr "loudnes"
+
+msgid "mouse down?"
+msgstr "mowse down?"
+
+msgid "mouse x"
+msgstr "mowse x"
+
+msgid "mouse y"
+msgstr "mowse y"
+
+msgid "move %n steps"
+msgstr "moov %n steps"
+
+msgid "next backdrop"
+msgstr "next bakdrop"
+
+msgid "next costume"
+msgstr "next coztume"
+
+msgid "not %b"
+msgstr "not %b"
+
+msgid "pen down"
+msgstr "pen down"
+
+msgid "pen up"
+msgstr "pen up"
+
+msgid "pick random %n to %n"
+msgstr "threw dice %n to %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "pulay drum %d.drum 4 %n beats"
+
+msgid "play note %d.note for %n beats"
+msgstr "pulay nowt %d.note 4 %n beats"
+
+msgid "play sound %m.sound"
+msgstr "pulay sound %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "pulay sound %m.sound til dun"
+
+msgid "point in direction %d.direction"
+msgstr "point in direcshun %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "point towardz %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "repet %n"
+
+msgid "repeat until %b"
+msgstr "repet til %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "replace item %d.listItem ov %m.list wif %s"
+
+msgid "reset timer"
+msgstr "reset tiemr"
+
+msgid "rest for %n beats"
+msgstr "rest 4 %n beats"
+
+msgid "round %n"
+msgstr "circle %n"
+
+msgid "say %s"
+msgstr "saie %s"
+
+msgid "say %s for %n secs"
+msgstr "saie %s 4 %n secs"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "sensor %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "set %m.effect FX 2 %n"
+
+msgid "set %m.motor power to %n"
+msgstr "set %m.motor powr 2 %n"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "set %m.motor2 direcshun 2 %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "set %m.var 2 %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "set instrument 2 %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "set pen color 2 %c"
+
+msgid "set pen color to %n"
+msgstr "set pen color 2 %n"
+
+msgid "set pen shade to %n"
+msgstr "set pen shade 2 %n"
+
+msgid "set pen size to %n"
+msgstr "set pen tip 2 %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "set rotashun style %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "set size 2 %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "set tempo 2 %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "set video tranzparency 2 %n%"
+
+msgid "set volume to %n%"
+msgstr "set volume 2 %n%"
+
+msgid "set x to %n"
+msgstr "set x 2 %n"
+
+msgid "set y to %n"
+msgstr "set y 2 %n"
+
+msgid "show"
+msgstr "show"
+
+msgid "show list %m.list"
+msgstr "show list %m.list"
+
+msgid "show variable %m.var"
+msgstr "show variable %m.var"
+
+msgid "size"
+msgstr "size"
+
+msgid "stamp"
+msgstr "stank"
+
+msgid "stop %m.stop"
+msgstr "stop %m.stop"
+
+msgid "stop all sounds"
+msgstr "stop all soundz"
+
+msgid "switch backdrop to %m.backdrop"
+msgstr "switch backdrop 2 %m.backdrop"
+
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "switch backdrop 2 %m.backdrop an wait"
+
+msgid "switch costume to %m.costume"
+msgstr "switch coztume to %m.costume"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "finkz %s"
+
+msgid "think %s for %n secs"
+msgstr "finkz %s 4 %n secs"
+
+msgid "tilt"
+msgstr "tilt"
+
+msgid "timer"
+msgstr "tiemr"
+
+msgid "touching %m.touching?"
+msgstr "touchin %m.touching?"
+
+msgid "touching color %c?"
+msgstr "touchin color %c?"
+
+msgid "turn %m.motor off"
+msgstr "turn %m.motor off"
+
+msgid "turn %m.motor on"
+msgstr "turn %m.motor on"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "turn %m.motor on 4 %n secs"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "turn @turnLeft %n degreez"
+
+msgid "turn @turnRight %n degrees"
+msgstr "turn @turnRight %n degreez"
+
+msgid "turn video %m.videoState"
+msgstr "turn video %m.videoState"
+
+msgid "username"
+msgstr "usr naym"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType on %m.stageOrThis"
+
+msgid "volume"
+msgstr "volume"
+
+msgid "wait %n secs"
+msgstr "sleep %n secs"
+
+msgid "wait until %b"
+msgstr "sleep til %b"
+
+msgid "when %m.booleanSensor"
+msgstr "when %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "wen %m.key key presd"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "wen %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "wen %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "wen @greenFlag clickd"
+
+msgid "when I receive %m.broadcast"
+msgstr "wen I reseave %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "wen I start as clone"
+
+msgid "when Stage clicked"
+msgstr "wen Stage clickd"
+
+msgid "when backdrop switches to %m.backdrop"
+msgstr "wen bakdrop switchez 2 %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "wen distans %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "wen dis object clickd"
+
+msgid "when tilt %m.eNe %n"
+msgstr "wen tilt %m.eNe %n"
+
+msgid "x position"
+msgstr "x posishun"
+
+msgid "y position"
+msgstr "y posishun"
+
+msgid "Language-Name"
+msgstr "Language-Naym"
+
+msgid "%m.list contains %s"
+msgstr "%m.list contains %s"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "go 2 %m.spriteOrMouse"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "set motor direcshun %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "set motor power %n"
+
+msgid "turn motor off"
+msgstr "turn motor off"
+
+msgid "turn motor on"
+msgstr "turn motor on"
+
+msgid "turn motor on for %n secs"
+msgstr "turn motor on 4 %n secs"
+
+msgid "when distance < %n"
+msgstr "when distans < %n"
+
+msgid "when tilt = %n"
+msgstr "when tilt = %n"
+
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid "A connected"
+msgstr "A connectd"
+
+msgid "A newer version of Scratch is available"
+msgstr "Download Scratch 4.0"
+
+msgid "About"
+msgstr "Bout"
+
+msgid "Account settings"
+msgstr "Account settings"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add an Extension"
+msgstr "Add an Extenshun"
+
+msgid "Add boolean input:"
+msgstr "Add boolean input:"
+
+msgid "Add label text:"
+msgstr "Add label text:"
+
+msgid "Add number input:"
+msgstr "Add numbr input:"
+
+msgid "Add string input:"
+msgstr "Add strin input:"
+
+msgid "All"
+msgstr "All"
+
+msgid "All Tips"
+msgstr "All Tipz"
+
+msgid "Animal"
+msgstr "Animel"
+
+msgid "Animals"
+msgstr "Animels"
+
+msgid "B connected"
+msgstr "B connectd"
+
+msgid "Back a layer"
+msgstr "Bak layr"
+
+msgid "Backdrop"
+msgstr "Bakdrop"
+
+msgid "Backdrop Library"
+msgstr "Bakdrop Liebrary"
+
+msgid "Backdrops"
+msgstr "Bakdrops"
+
+msgid "Backpack"
+msgstr "Buck Puck"
+
+msgid "Bass"
+msgstr "Bas"
+
+msgid "Bass Drum"
+msgstr "Bas Drum"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bitmap"
+msgstr "Peetmap"
+
+msgid "Bitmap Mode"
+msgstr "Peetmap Mode"
+
+msgid "Block help"
+msgstr "Block help"
+
+msgid "Bongo"
+msgstr "Bingo"
+
+msgid "Bring to front"
+msgstr "Brin 2 front"
+
+msgid "Broadcast"
+msgstr "Breadcast"
+
+msgid "Brush"
+msgstr "Horsetail"
+
+msgid "C connected"
+msgstr "Gamma connectd"
+
+msgid "Cabasa"
+msgstr "Steal cylindr"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cancel"
+msgstr "Cancer"
+
+msgid "Cannot Delete"
+msgstr "Cant Delete"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Cant find network connecshun or reach servr."
+
+msgid "Castle"
+msgstr "Casel"
+
+msgid "Category"
+msgstr "Kategory"
+
+msgid "Cello"
+msgstr "Celo"
+
+msgid "Check for updates"
+msgstr "Checkmate 4 updatez"
+
+msgid "Choir"
+msgstr "Choiar"
+
+msgid "Choose backdrop from library"
+msgstr "Choose bakdrop frum liebrary"
+
+msgid "Choose costume from library"
+msgstr "Choose coztume frum liebrary"
+
+msgid "Choose sound from library"
+msgstr "Choose sound frum liebrary"
+
+msgid "Choose sprite from library"
+msgstr "Choose object frum liebrary"
+
+msgid "Circle"
+msgstr "Circle"
+
+msgid "City"
+msgstr "Citie"
+
+msgid "Clarinet"
+msgstr "Clari.net"
+
+msgid "Claves"
+msgstr "Clavz"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Click "Save nao" 2 try again or "Download" 2 save"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Closed Hi-Hat"
+msgstr "Closd Hi-Hat"
+
+msgid "Cloud data"
+msgstr "Galactic data"
+
+msgid "Cloud list (stored on server)"
+msgstr "Galactic list (stord on servr)"
+
+msgid "Cloud variable (stored on server)"
+msgstr "Galactic variable (stord on servr)"
+
+msgid "Color a shape"
+msgstr "Color shape"
+
+msgid "Conga"
+msgstr "Cuba"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Connectin 2 Galactic data servr..."
+
+msgid "Convert to bitmap"
+msgstr "Convert 2 peetmap"
+
+msgid "Convert to vector"
+msgstr "Convert 2 vector"
+
+msgid "Converting mp3..."
+msgstr "Convertin mp3..."
+
+msgid "Copying..."
+msgstr "Copyin..."
+
+msgid "Costume"
+msgstr "Coztume"
+
+msgid "Costume Library"
+msgstr "Coztume Liebrary"
+
+msgid "Costumes"
+msgstr "Coztumez"
+
+msgid "Costumes > 1"
+msgstr "Coztumez > 1"
+
+msgid "Could not retrieve new application from server."
+msgstr "Cud not retrieve neo applicashun frum servr."
+
+msgid "Could not retrieve update location from server."
+msgstr "Cud not retrieve update locashun frum servr."
+
+msgid "Could not retrieve version information from server."
+msgstr "Cud not retrieve vershun informashun frum servr."
+
+msgid "Could not write file:"
+msgstr "Cud not rite filez:"
+
+msgid "Cowbell"
+msgstr "Cowbel"
+
+msgid "Crash Cymbal"
+msgstr "Crash Simbal"
+
+msgid "Creating..."
+msgstr "Purring..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Currently, only numbers can be stord in Galactic variablez."
+
+msgid "D connected"
+msgstr "Delta connected"
+
+msgid "Dance"
+msgstr "Dans"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Don't save"
+msgstr "Dont shave"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download to your computer"
+msgstr "Download 2 ur computr"
+
+msgid "Downloading new version..."
+msgstr "Downloading neo version..."
+
+msgid "Dress-Up"
+msgstr "Dres-Up"
+
+msgid "Duplicate"
+msgstr "Duplicate"
+
+msgid "Edit"
+msgstr "Change Joke"
+
+msgid "Edit Block"
+msgstr "Change Joke Block"
+
+msgid "Effects"
+msgstr "FX's"
+
+msgid "Electric Guitar"
+msgstr "Ectric Gitar"
+
+msgid "Electric Piano"
+msgstr "Ectric Piano"
+
+msgid "Electronic"
+msgstr "Ectronic"
+
+msgid "Ellipse"
+msgstr "Elipse"
+
+msgid "Erase"
+msgstr "Erace"
+
+msgid "Eraser width"
+msgstr "Eracer width"
+
+msgid "Error saving project"
+msgstr "Eror savin project"
+
+msgid "Error!"
+msgstr "Virus infected your os!!"
+
+msgid "Fantasy"
+msgstr "Fantasea"
+
+msgid "Features"
+msgstr "Featurez"
+
+msgid "File"
+msgstr "Fail"
+
+msgid "Fill with color"
+msgstr "Fill wif color"
+
+msgid "Flip left-right"
+msgstr "Flip left-rite"
+
+msgid "Flip up-down"
+msgstr "Flip up-down"
+
+msgid "Flute"
+msgstr "Flut"
+
+msgid "Flying"
+msgstr "Flyin"
+
+msgid "Font:"
+msgstr "Font:"
+
+msgid "For all sprites"
+msgstr "4 all object"
+
+msgid "For this sprite only"
+msgstr "4 dis object only"
+
+msgid "Force help file update"
+msgstr "Fors halp file update"
+
+msgid "Forward a layer"
+msgstr "Fwd layr"
+
+msgid "Go to My Stuff"
+msgstr "Go 2 Mah stuff"
+
+msgid "Group"
+msgstr "Grop"
+
+msgid "Grow"
+msgstr "Grow"
+
+msgid "Guiro"
+msgstr "Goro"
+
+msgid "Guitar"
+msgstr "Gitar"
+
+msgid "Hand Clap"
+msgstr "Hand Clap"
+
+msgid "Hardware"
+msgstr "Hardwear"
+
+msgid "High C"
+msgstr "Hi C"
+
+msgid "Holiday"
+msgstr "Holidai"
+
+msgid "Human"
+msgstr "Hooman"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import experimental HTTP extension"
+msgstr "Import expired mental HTTP extenshun"
+
+msgid "Importing sound..."
+msgstr "Importing sound..."
+
+msgid "Indoors"
+msgstr "Indors"
+
+msgid "Installing..."
+msgstr "Installin..."
+
+msgid "Instruments"
+msgstr "Instrumentz"
+
+msgid "Letters"
+msgstr "Letterz"
+
+msgid "Library"
+msgstr "Liebrary"
+
+msgid "Line"
+msgstr "Line"
+
+msgid "Line width"
+msgstr "Line width"
+
+msgid "List name"
+msgstr "List naym"
+
+msgid "Loading help files..."
+msgstr "Loading halp filez..."
+
+msgid "Loading project..."
+msgstr "Loading project..."
+
+msgid "Low C"
+msgstr "Lo C"
+
+msgid "Make a Block"
+msgstr "Spawn Block"
+
+msgid "Make a List"
+msgstr "Spawn List"
+
+msgid "Make a Variable"
+msgstr "Spawn Variable"
+
+msgid "Manual Update Available"
+msgstr "Manuel Update Availabel"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Message Name"
+msgstr "Mesage Naym"
+
+msgid "Microphone volume:"
+msgstr "Microfone volume:"
+
+msgid "Middle C"
+msgstr "Mid C"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Multiple"
+msgstr "Multipill"
+
+msgid "Music"
+msgstr "Moosic"
+
+msgid "Music Box"
+msgstr "Moosic Box"
+
+msgid "Music Loops"
+msgstr "Moosic Loopz"
+
+msgid "Music and Dance"
+msgstr "Moosic an Dance"
+
+msgid "Musical Notes"
+msgstr "Moosical Notez"
+
+msgid "My Class"
+msgstr "Mah Clas"
+
+msgid "My Classes"
+msgstr "Mah Clasez"
+
+msgid "My Stuff"
+msgstr "Mah Stuff"
+
+msgid "Nature"
+msgstr "Nachur"
+
+msgid "New"
+msgstr "Neo"
+
+msgid "New Block"
+msgstr "NeoBlock"
+
+msgid "New List"
+msgstr "Neo List"
+
+msgid "New Message"
+msgstr "Neo Mesage"
+
+msgid "New Variable"
+msgstr "Neo Variable"
+
+msgid "New backdrop from camera"
+msgstr "Neo bakdrop frum kamera"
+
+msgid "New backdrop:"
+msgstr "Neo bakdrop"
+
+msgid "New costume from camera"
+msgstr "Neo coztume from kamera"
+
+msgid "New costume:"
+msgstr "Neo coztume"
+
+msgid "New name"
+msgstr "Neo naym"
+
+msgid "New sound:"
+msgstr "Neo sound"
+
+msgid "New sprite from camera"
+msgstr "Neo object from camera"
+
+msgid "New sprite:"
+msgstr "Neo object"
+
+msgid "No motion blocks"
+msgstr "No moshun blockz"
+
+msgid "No, Thanks"
+msgstr "No, Thx"
+
+msgid "Not saved; network or server problem."
+msgstr "Not saved; network or servr problem."
+
+msgid "Not saved; project did not load."
+msgstr "Not saved; project did not lod."
+
+msgid "OK"
+msgstr "K"
+
+msgid "Offline Editor"
+msgstr "Offline Editor"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Open Project"
+msgstr "Open Project"
+
+msgid "Options"
+msgstr "Opshunz"
+
+msgid "Organ"
+msgstr "Organ"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Outdoors"
+msgstr "Outdors"
+
+msgid "Paint new backdrop"
+msgstr "Paint neo bakdrop"
+
+msgid "Paint new costume"
+msgstr "Paint neo costume"
+
+msgid "Paint new sprite"
+msgstr "Paint neo object"
+
+msgid "Password"
+msgstr "Pasword"
+
+msgid "Password is required"
+msgstr "Pasword iz requird"
+
+msgid "Pencil"
+msgstr "Pensil"
+
+msgid "People"
+msgstr "Peeps"
+
+msgid "Percussion"
+msgstr "Percushun"
+
+msgid "Piano"
+msgstr "Piano"
+
+msgid "Pick up color"
+msgstr "Pick up color"
+
+msgid "Pizzicato"
+msgstr "Pizzan"
+
+msgid "Please visit the download page to install it."
+msgstr "plz visit teh download paeg 2 install it"
+
+msgid "Profile"
+msgstr "Noobfile"
+
+msgid "Project did not load."
+msgstr "Project didnt load"
+
+msgid "Project name"
+msgstr "Project naym"
+
+msgid "Project name is required"
+msgstr "Project naym iz required"
+
+msgid "Project not saved!"
+msgstr "Project not savd"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Record"
+msgstr "Recod"
+
+msgid "Record & Export Video"
+msgstr "Recod & Export Video"
+
+msgid "Record Project Video"
+msgstr "Recod Project Video"
+
+msgid "Record new sound"
+msgstr "Recod neo sound"
+
+msgid "Rectangle"
+msgstr "Ricktangle"
+
+msgid "Redo"
+msgstr "Redo"
+
+msgid "Remix"
+msgstr "Remix"
+
+msgid "Remixing..."
+msgstr "Remixin..."
+
+msgid "Remove Background"
+msgstr "Remoov Bakground"
+
+msgid "Rename"
+msgstr "Renaym"
+
+msgid "Replace existing project?"
+msgstr "Replace existin project?"
+
+msgid "Reshape"
+msgstr "Reshape"
+
+msgid "Revert"
+msgstr "Revert"
+
+msgid "Reverting..."
+msgstr "Revertin..."
+
+msgid "Run without screen refresh"
+msgstr "Run without screen refresh"
+
+msgid "Running pre-release"
+msgstr "Runnin pre-release"
+
+msgid "Save"
+msgstr "Shave"
+
+msgid "Save Project"
+msgstr "Shave Project"
+
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Shave copy ov dis project an add ur own ideas"
+
+msgid "Save as"
+msgstr "Shave as"
+
+msgid "Save as a copy"
+msgstr "Shave as a copy"
+
+msgid "Save now"
+msgstr "Shave Nao"
+
+msgid "Save project?"
+msgstr "Shave project?"
+
+msgid "Saved"
+msgstr "Shaved"
+
+msgid "Saving changes..."
+msgstr "Shavin changes..."
+
+msgid "Saving..."
+msgstr "Shaving..."
+
+msgid "Saxophone"
+msgstr "Saxofone"
+
+msgid "Scratch Updater"
+msgstr "Scratch Updatr"
+
+msgid "Script"
+msgstr "LOL"
+
+msgid "Scripts"
+msgstr "LOLz"
+
+msgid "See project page"
+msgstr "C project paeg"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select and duplicate"
+msgstr "Select an duplikate"
+
+msgid "Send to back"
+msgstr "Send 2 back"
+
+msgid "Server error:"
+msgstr "Server eror"
+
+msgid "Set Costume Center"
+msgstr "Set Costume Sentr"
+
+msgid "Set costume center"
+msgstr "Set costume senter"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share to Scratch Website"
+msgstr "Share 2 Scratch Websiet"
+
+msgid "Share to website"
+msgstr "Share 2 websiet"
+
+msgid "Shift:"
+msgstr "Shift:"
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr "Micro stage layout"
+
+msgid "Smooth"
+msgstr ""
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "Sound Library"
+msgstr "Sound Liebrary"
+
+msgid "Sounds"
+msgstr "Soundz"
+
+msgid "Space"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sprite"
+msgstr "Object"
+
+msgid "Sprite Library"
+msgstr "Object Liebrary"
+
+msgid "Sprite1"
+msgstr "Object1"
+
+msgid "Sprites"
+msgstr "Objects"
+
+msgid "Square"
+msgstr "Square"
+
+msgid "Stage"
+msgstr "Stage"
+
+msgid "Stage selected:"
+msgstr "Stage selectd:"
+
+msgid "Steel Drum"
+msgstr "Steal Drum"
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
+msgid "This version is newer than the current release version."
+msgstr ""
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
+
+msgid "Tips"
+msgstr "Tipz"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "Transportation"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Turbo Mode"
+msgstr "Gobo Mode"
+
+msgid "Turbo mode"
+msgstr "Gobo mode"
+
+msgid "Type"
+msgstr ""
+
+msgid "Undelete"
+msgstr "Time Machine"
+
+msgid "Underwater"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo Revert"
+msgstr ""
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "Update check failed"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
+
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
+msgid "Upload failed"
+msgstr ""
+
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Video on:"
+msgstr ""
+
+msgid "Visit download page"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "Yes, I'd Like To Help Improve Scratch"
+msgstr ""
+
+msgid "Your Scratch name"
+msgstr ""
+
+msgid "Your Scratch name is required"
+msgstr ""
+
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+msgid "a copy of the project file on your computer."
+msgstr ""
+
+msgid "abs"
+msgstr ""
+
+msgid "acos"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "all around"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "assets loaded"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "backdrop"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "backdrops"
+msgstr ""
+
+msgid "brightness"
+msgstr ""
+
+msgid "button pressed"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "bytes loaded"
+msgstr ""
+
+msgid "can drag in player:"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "clean up"
+msgstr ""
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "color"
+msgstr ""
+
+msgid "copy"
+msgstr ""
+
+msgid "cos"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "delete variable"
+msgstr ""
+
+msgid "direction:"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr ""
+
+msgid "down arrow"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr ""
+
+msgid "edit"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "fisheye"
+msgstr ""
+
+msgid "floor"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "large readout"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "left arrow"
+msgstr ""
+
+msgid "left-right"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "light"
+msgstr ""
+
+msgid "limit reached"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "message1"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr ""
+
+msgid "myself"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "normal readout"
+msgstr ""
+
+msgid "of"
+msgstr "ov"
+
+msgid "off"
+msgstr "off"
+
+msgid "on"
+msgstr "on"
+
+msgid "on-flipped"
+msgstr "on-flipped"
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "other scripts in stage"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "pixelate"
+msgstr ""
+
+msgid "pop"
+msgstr ""
+
+msgid "previous backdrop"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "random position"
+msgstr ""
+
+msgid "record..."
+msgstr ""
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
+msgstr "requirez sign in"
+
+msgid "resistance-A"
+msgstr "defends-A"
+
+msgid "resistance-B"
+msgstr "defends-B"
+
+msgid "resistance-C"
+msgstr "defends-C"
+
+msgid "resistance-D"
+msgstr "defends-D"
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "right arrow"
+msgstr ""
+
+msgid "rotation style:"
+msgstr "rotashun style:"
+
+msgid "save to local file"
+msgstr "save 2 local file"
+
+msgid "second"
+msgstr "secaned"
+
+msgid "select all"
+msgstr "select all"
+
+msgid "set slider min and max"
+msgstr "set slidr min an max"
+
+msgid "shared"
+msgstr "shard"
+
+msgid "show:"
+msgstr "show:"
+
+msgid "silence"
+msgstr "silense"
+
+msgid "sin"
+msgstr "sine"
+
+msgid "slider"
+msgstr "slidr"
+
+msgid "softer"
+msgstr "softr"
+
+msgid "sound"
+msgstr "sound"
+
+msgid "space"
+msgstr "space"
+
+msgid "sqrt"
+msgstr "square root"
+
+msgid "tan"
+msgstr "tangent"
+
+msgid "text"
+msgstr "text"
+
+msgid "that way"
+msgstr "dat wai"
+
+msgid "this script"
+msgstr "dis script"
+
+msgid "this sprite"
+msgstr "dis object"
+
+msgid "this way"
+msgstr "dis wai"
+
+msgid "undo"
+msgstr "undo"
+
+msgid "unshared"
+msgstr "unshard"
+
+msgid "up"
+msgstr "up"
+
+msgid "up arrow"
+msgstr "up arow"
+
+msgid "variable"
+msgstr "variable"
+
+msgid "video direction"
+msgstr "video direcshun"
+
+msgid "video motion"
+msgstr "video moshun"
+
+msgid "whirl"
+msgstr "whirl"
+
+msgid "year"
+msgstr "yer"
+
+msgid "Click  to try again or  to save"
+msgstr "Click 2 try again or  to save"
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "costume name"
+msgstr "costume naym"
+
+msgid "Costumes:"
+msgstr "Costumez"
+
+msgid "Eraser width:"
+msgstr "Eracer width:"
+
+msgid "Line width:"
+msgstr "Line width:"
+
+msgid "Scripts:"
+msgstr "LOLz:"
+
+msgid "show receivers"
+msgstr show reseaverz""
+
+msgid "show senders"
+msgstr "how senderz"
+
+msgid "stored on server"
+msgstr "stord on servr"
